@@ -19,7 +19,7 @@ pip install -r requirements.txt
 3. Set the following environment variables with your API keys and credentials:
    - `OPENAI_API_KEY`
    - `GOOGLE_APPLICATION_CREDENTIALS_PATH`
-4. Run the `Conversation_v4.py` script to start the assistant.
+4. Run the `Conversation.py` script to start the assistant.
 
 ## Usage
 
